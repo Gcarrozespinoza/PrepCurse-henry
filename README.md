@@ -1,2 +1,1 @@
-# PrepCurse-henry
-este es un reporisitorio de prueba de prepcurse de henry
+Este repositorio es un prueba de como crear un repositorio y como clonarlo desde github a mi escritorio local
